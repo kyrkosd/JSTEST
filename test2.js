@@ -1,5 +1,5 @@
 // hello.js
-function greet() {
+unction greet() {
     console.log("Hello! This is my first JavaScript program.");
 }
 a=1;
