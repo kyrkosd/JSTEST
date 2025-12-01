@@ -7,11 +7,11 @@ const readline = require('readline');
 const rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout
-});
+
 
 console.log("Simple Node.js Calculator");  
 console.log("Available operations: +  -  *  /");
-console.log("Example: 5 * 7");
+console.log("Example: 5 * ");
 console.log("--------------------------------");
 
 rl.question("Enter calculation: ", (input) => {
