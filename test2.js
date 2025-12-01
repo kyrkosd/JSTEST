@@ -2,6 +2,5 @@
 function greet() {
     console.log("Hello! This is my first JavaScript program.");
 }
-
+a=    1;
 greet();
-A=1;
